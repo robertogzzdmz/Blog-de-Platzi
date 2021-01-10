@@ -42,8 +42,19 @@ body
 {
     font-size: 20px;
 }
+<<<<<<< HEAD
 #post
 {
     background-color: paleturquoise;
     padding: 1em;
 }
+=======
+#footer
+{
+	background: darkslateblue;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
+}
+
+>>>>>>> footer
