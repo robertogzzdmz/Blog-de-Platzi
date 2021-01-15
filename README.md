@@ -14,3 +14,4 @@ Estaremos registrando todos los cambios realizados en este repositorio.
 
 ### Gracias Platzi por generar cursos de calidad.
 
+> Ojalá todos pudieramos aprovechar estos conocimientos.
