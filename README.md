@@ -1,9 +1,7 @@
 # Blog Proyecto de Platzi.
 
 
-
-
-[========]
+Espero les guste lo que tenemos planeado para ustedes.
 
 Este es un Blog elaborado como proyecto para el curso de programación de Platzi.
 
